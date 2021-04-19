@@ -3,7 +3,7 @@
 </div>
 
 [![license](https://img.shields.io/badge/license-BSD-blue.svg)]()
-[![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://github.com/bilibili/gengine/wiki)
+[![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://github.com/blastbao/gengine/wiki)
 
 # Gengine
 - [简体中文](README_zh.md)
@@ -15,7 +15,7 @@
 
 ## github wiki
 - English https://rencalo770.github.io/gengine_en/#/introduce
-- 中文文档 https://github.com/bilibili/gengine/wiki
+- 中文文档 https://github.com/blastbao/gengine/wiki
 
 ## supported the execute model of rules
  ![avatar](exe_model.jpg)

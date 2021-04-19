@@ -3,8 +3,8 @@ package iparser
 import (
 	"errors"
 	"fmt"
-	"github.com/bilibili/gengine/internal/base"
-	parser "github.com/bilibili/gengine/internal/iantlr/alr"
+	"github.com/blastbao/gengine/internal/base"
+	parser "github.com/blastbao/gengine/internal/iantlr/alr"
 	"reflect"
 	"strconv"
 	"strings"

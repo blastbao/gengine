@@ -3,7 +3,7 @@ package context
 import (
 	"errors"
 	"fmt"
-	"github.com/bilibili/gengine/internal/core"
+	"github.com/blastbao/gengine/internal/core"
 	"path"
 	"path/filepath"
 	"plugin"

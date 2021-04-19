@@ -2,10 +2,10 @@ package concurrent
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/builder"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/engine"
-	"github.com/bilibili/gengine/test"
+	"github.com/blastbao/gengine/builder"
+	"github.com/blastbao/gengine/context"
+	"github.com/blastbao/gengine/engine"
+	"github.com/blastbao/gengine/test"
 
 	"io/ioutil"
 	"os"

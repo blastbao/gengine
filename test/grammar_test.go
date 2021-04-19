@@ -2,11 +2,11 @@ package test
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/builder"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/internal/base"
-	parser "github.com/bilibili/gengine/internal/iantlr/alr"
-	"github.com/bilibili/gengine/internal/iparser"
+	"github.com/blastbao/gengine/builder"
+	"github.com/blastbao/gengine/context"
+	"github.com/blastbao/gengine/internal/base"
+	parser "github.com/blastbao/gengine/internal/iantlr/alr"
+	"github.com/blastbao/gengine/internal/iparser"
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 	"testing"
 )

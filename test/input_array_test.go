@@ -2,9 +2,9 @@ package test
 
 import (
 	"fmt"
-	"github.com/bilibili/gengine/builder"
-	"github.com/bilibili/gengine/context"
-	"github.com/bilibili/gengine/engine"
+	"github.com/blastbao/gengine/builder"
+	"github.com/blastbao/gengine/context"
+	"github.com/blastbao/gengine/engine"
 	"testing"
 )
 

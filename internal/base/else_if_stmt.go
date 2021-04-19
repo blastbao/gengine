@@ -2,7 +2,7 @@ package base
 
 import (
 	"errors"
-	"github.com/bilibili/gengine/context"
+	"github.com/blastbao/gengine/context"
 	"reflect"
 )
 
